@@ -1,0 +1,35 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="meta f4" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateDockerToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateHibernateConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="meta f11" />
+  </action>
+  <action id="ActivatePersistenceToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ActivateRunDashboardToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="meta alt 3" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta alt 2" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="meta alt 1" />
+  </action>
+</keymap>
