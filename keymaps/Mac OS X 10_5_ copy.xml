@@ -3,7 +3,7 @@
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="ActivateDebugToolWindow" />
-  <action id="ActivateMavenToolWindow">
+  <action id="ActivateHibernateConsoleToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
   <action id="ActivateRunDashboardToolWindow">
