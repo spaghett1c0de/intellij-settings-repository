@@ -4,7 +4,7 @@
     <property name="created">2018-11-13T10:49:54</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2019-09-16T16:40:52</property>
+    <property name="modified">2019-12-18T10:56:25</property>
     <property name="originalScheme">_@user_Material One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -1290,9 +1290,44 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
+    <option name="JS.CONSOLE">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="JS.DEBUGGER_STMT">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="JS.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="eeffe3" />
+      </value>
+    </option>
+    <option name="JS.MODULE_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="JS.NULL_UNDEFINED">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="JS.THIS_SUPER">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="JS.VAR_DEF">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
