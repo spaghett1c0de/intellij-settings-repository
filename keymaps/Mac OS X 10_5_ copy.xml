@@ -23,9 +23,6 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta alt 2" />
   </action>
-  <action id="ShowGulpTasks">
-    <keyboard-shortcut first-keystroke="meta back_slash" />
-  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="meta alt 1" />
   </action>
