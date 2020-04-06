@@ -26,6 +26,9 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta alt 2" />
   </action>
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="meta alt 1" />
   </action>
