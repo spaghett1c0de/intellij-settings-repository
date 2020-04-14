@@ -9,7 +9,6 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="13" />
     <option name="FONT_FAMILY" value="Dank Mono" />
     <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Fira Code" />
@@ -17,9 +16,8 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
   </component>
-  <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true" />
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
