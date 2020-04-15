@@ -4,7 +4,7 @@
     <property name="created">2020-04-05T23:37:40</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-04-06T00:34:17</property>
+    <property name="modified">2020-04-15T01:03:20</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1118,6 +1118,16 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JAVA.PRIMITIVE">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="JAVA.STATIC_FINAL">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
     <option name="JAVA.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="ff5370" />
@@ -1137,6 +1147,11 @@
     <option name="JS.DEBUGGER_STMT">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
+      </value>
+    </option>
+    <option name="JS.FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION">
@@ -1190,6 +1205,11 @@
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="ff4965" />
+      </value>
+    </option>
+    <option name="JS.VAR_DEF">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
