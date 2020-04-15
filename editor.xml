@@ -17,7 +17,7 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
   </component>
-  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true" />
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" useJBChromeExtension="true" />
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
