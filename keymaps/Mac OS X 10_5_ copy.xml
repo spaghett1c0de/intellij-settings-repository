@@ -3,9 +3,6 @@
     <keyboard-shortcut first-keystroke="meta 8" />
   </action>
   <action id="ActivateDebugToolWindow" />
-  <action id="ActivateRunDashboardToolWindow">
-    <keyboard-shortcut first-keystroke="meta 4" />
-  </action>
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
