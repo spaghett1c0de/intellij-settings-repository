@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/Documents/SpringWorkspace" />
+        <option value="$USER_HOME$/Documents/JavaWorkspace/JHipsterProjects" />
       </list>
     </option>
   </component>
