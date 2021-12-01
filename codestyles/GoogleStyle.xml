@@ -239,6 +239,7 @@
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </TypeScriptCodeStyleSettings>
   <XML>
+    <option name="XML_TEXT_WRAP" value="0" />
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
   </XML>
   <codeStyleSettings language="CSS">
