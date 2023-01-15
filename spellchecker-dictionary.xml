@@ -19,6 +19,7 @@
       <w>emplids</w>
       <w>etiq</w>
       <w>facfeed</w>
+      <w>falit</w>
       <w>fnclaid</w>
       <w>groupmtg</w>
       <w>hostos</w>
@@ -38,7 +39,11 @@
       <w>ppdev</w>
       <w>prog</w>
       <w>progben</w>
+      <w>prsnlcol</w>
       <w>prsnlfam</w>
+      <w>prsnlfin</w>
+      <w>prsnlhos</w>
+      <w>prsnltrn</w>
       <w>rondon</w>
       <w>selectpicker</w>
       <w>subnav</w>
