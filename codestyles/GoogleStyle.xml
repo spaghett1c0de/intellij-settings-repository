@@ -14,6 +14,7 @@
     <option name="CUSTOM_TYPE_CASE" value="3" />
     <option name="QUOTE_IDENTIFIER" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
+    <option name="WHERE_EL_WRAP" value="2" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="CALL_PARAMETERS_WRAP" value="1" />
