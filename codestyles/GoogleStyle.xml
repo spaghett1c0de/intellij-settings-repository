@@ -190,6 +190,10 @@
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="3" />
     <option name="CUSTOM_TYPE_CASE" value="3" />
+    <option name="SUBQUERY_OPENING" value="1" />
+    <option name="SUBQUERY_CONTENT" value="2" />
+    <option name="SUBQUERY_CLOSING" value="1" />
+    <option name="SUBQUERY_PAR_SPACE_BEFORE" value="1" />
     <option name="WITH_EL_COMMA" value="1" />
     <option name="FROM_INDENT_JOIN" value="false" />
     <option name="FROM_ONLY_JOIN_INDENT" value="1" />
