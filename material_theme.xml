@@ -4,9 +4,11 @@
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="accentColor" value="ab47bc" />
+    <option name="secondAccentColor" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="focusColor" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="dff7854:167134ab872:-8000" />
-    <option name="version" value="8.12.6" />
+    <option name="version" value="8.13.2" />
   </component>
 </application>
