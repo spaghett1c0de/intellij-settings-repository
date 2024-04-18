@@ -14,5 +14,10 @@
         <option name="version" value="9.2.1" />
       </MTMetadataState>
     </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="PALENIGHT" />
+      </MTThemeConfigState>
+    </option>
   </component>
 </application>
