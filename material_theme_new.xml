@@ -1,0 +1,22 @@
+<application>
+  <component name="MaterialThemeNewConfig">
+    <option name="accentState">
+      <MTAccentConfigState>
+        <option name="accentColorHex" value="ab47bc" />
+        <option name="overrideAccentColor" value="false" />
+      </MTAccentConfigState>
+    </option>
+    <option name="metadata">
+      <MTMetadataState>
+        <option name="migrated" value="true" />
+        <option name="userId" value="dff7854:167134ab872:-8000" />
+        <option name="version" value="8.13.2" />
+      </MTMetadataState>
+    </option>
+    <option name="themeState">
+      <MTThemeConfigState>
+        <option name="selectedThemeName" value="PALENIGHT" />
+      </MTThemeConfigState>
+    </option>
+  </component>
+</application>
