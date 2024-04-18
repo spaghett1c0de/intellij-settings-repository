@@ -1,5 +1,8 @@
 <application>
   <component name="LafManager">
-    <laf themeId="PALENIGHT" />
+    <laf themeId="OCEANIC" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="OCEANIC" scheme="_@user_Material Palenight" />
+    </lafs-to-previous-schemes>
   </component>
 </application>
